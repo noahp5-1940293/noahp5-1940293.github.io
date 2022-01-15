@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+  
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+p.round3 {
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 5px;
+}
+img {
+    float: right;
+}
